@@ -1,7 +1,7 @@
 # mini-gpt-from-scratch
 A from-scratch GPT (decoder-only Transformer) in PyTorch trained on TinyShakespeare. Multi-head causal attention, 10.8M params, with training logs and an overfitting analysis.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/mini-gpt-from-scratch/blob/main/Mini_GPT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12jRWKGL40IlP-Kesv2ciRU8kONJcZ5Od?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
